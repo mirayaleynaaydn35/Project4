@@ -9,7 +9,7 @@ kodluyoruz eğitimi kapsamında açtığım ilk repo
 Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-https://github.com/MuraT110/kodluyoruz-lkDepo.git
+https://github.com/mirayaleynaaydn35/Project4/edit/main/README.md
 
 Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
